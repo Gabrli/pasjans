@@ -11,7 +11,7 @@
 
 ## Opis projektu
 
-Projekt to konsolowa wersja klasycznego pasjansa. Celem gry jest ułożenie wszystkich kart na czterech stosach końcowych według koloru i rosnącej wartości (od Asa do Króla). Gra posiada dwa poziomy trudności (łatwy i trudny), obsługę cofania ruchów oraz ranking wyników.
+Celem gry jest ułożenie wszystkich kart na czterech stosach końcowych według koloru i rosnącej wartości (od Asa do Króla). Gra posiada dwa poziomy trudności (łatwy i trudny), obsługę cofania ruchów oraz ranking wyników.
 
 ---
 
